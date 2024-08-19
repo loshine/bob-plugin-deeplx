@@ -37,8 +37,8 @@ var supportedLanguages = [
     ["sv", "SV"], // Swedish
     ["tr", "TR"], // Turkish
     ["uk", "UK"], // Ukrainian
-    ["zh-Hans", "ZH-HANS"], // Simplified Chinese
-    ["zh-Hant", "ZH-HANT"], // Traditional Chinese
+    ["zh-Hans", "ZH"], // Simplified Chinese
+    ["zh-Hant", "ZH"], // Traditional Chinese
 ];
 
 exports.supportedLanguages = supportedLanguages;
